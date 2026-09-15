@@ -10,7 +10,7 @@ Diseño mobile-first con Tailwind CDN y paleta del turnero (`#E8611A` / `#C7510F
 - Instagram: @totalpilatesfit_eugeniacompany
 - Cómo llegar: España 169, Neuquén Capital
 - Horarios: Lun–Vie · 7:00–12:00 / 14:00–21:00
-- Disciplinas: Spring Board, Reformer, Combo Chair, Balones, Funcional, Mat
+- Disciplinas: Spring Board, Reformer, Combo Chair, Balones, Funcional, Mat, Bosu, Bandas
 
 ## Cómo verla
 
